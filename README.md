@@ -1,3 +1,3 @@
 # JavaScript
 
-This repo contains all my basic progress in javascript!
+This repo contains all my basic progress in javascript !
